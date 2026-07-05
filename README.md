@@ -1,12 +1,13 @@
-# 👋🧩 Morphe Patches template
+# 🧩 KineStop Patches for Morphe
 
-Template repository for Morphe Patches.
+Morphe patches for the **KineStop** app (`com.urbandroid.kinestop`).
 
 ## ❓ About
 
-Patches for apps I like.
-
-TODO: Update this about section with a brief introduction/summary about this repo and what it offers.
+This bundle contains a patch that unlocks KineStop's premium features by forcing
+`KineService$Companion.isTrial(Context)` to return `false` (the app's "pro / not trial"
+state). All trial/premium gates in the app flow through that one method, so a single
+override unlocks everything.
 
 ## 🩹 Patches list
 
@@ -71,15 +72,18 @@ To develop and release your Patches using this template:
 
 #### How to use these patches
 
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=xyz-user/xyz-patches
+Click here to add these patches to Morphe: https://morphe.software/add-source?github=9pyuco7t/morphe-patches
 
-Or manually add this repository url as a patch source in Morphe: https://github.com/xyz-user/xyz-patches
+Or manually add this repository url as a patch source in Morphe: https://github.com/9pyuco7t/morphe-patches
 
 ### 🛠️ Building
 
-To build UserXYZ Patches,
-you can follow the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation).
+Releases are built automatically by the `release.yml` GitHub Actions workflow on push to
+`main`/`dev`. To build locally, follow the
+[Morphe documentation](https://github.com/MorpheApp/morphe-documentation) (you'll need a
+GitHub PAT with `read:packages` in `~/.gradle/gradle.properties` as `gpr.user`/`gpr.key`
+to resolve the `MorpheApp/registry` Gradle plugin).
 
 ## 📜 License
 
-UserXYZ Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+KineStop Patches are licensed under the [GNU General Public License v3.0](LICENSE)
