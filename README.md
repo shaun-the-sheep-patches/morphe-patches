@@ -12,7 +12,7 @@ override unlocks everything.
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0](https://github.com/9pyuco7t/morphe-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v1.0.0](https://github.com/shaun-the-sheep-patches/morphe-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
 <details open>
 <summary>📦 KineStop&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -32,9 +32,9 @@ override unlocks everything.
 
 #### How to use these patches
 
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=9pyuco7t/morphe-patches
+Click here to add these patches to Morphe: https://morphe.software/add-source?github=shaun-the-sheep-patches/morphe-patches
 
-Or manually add this repository url as a patch source in Morphe: https://github.com/9pyuco7t/morphe-patches
+Or manually add this repository url as a patch source in Morphe: https://github.com/shaun-the-sheep-patches/morphe-patches
 
 ### 🛠️ Building
 
