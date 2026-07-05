@@ -4,8 +4,8 @@ patches {
     about {
         name = "KineStop Patches"
         description = "Morphe patches for KineStop"
-        source = "git@github.com:9pyuco7t/morphe-patches.git"
-        author = "9pyuco7t"
+        source = "git@github.com:shaun-the-sheep-patches/morphe-patches.git"
+        author = "shaun-the-sheep-patches"
         contact = "na"
         website = "na"
         license = "GPLv3"
