@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/shaun-the-sheep-patches/morphe-patches/compare/v1.0.1...v1.1.0) (2026-07-07)
+
+### ✨ New Features
+
+* **rssreader:** Add RSS Reader Premium unlock patch ([b5f3011](https://github.com/shaun-the-sheep-patches/morphe-patches/commit/b5f3011a033536f1da6f9331b5381a02f61647ce))
+
 ## [1.0.1](https://github.com/shaun-the-sheep-patches/morphe-patches/compare/v1.0.0...v1.0.1) (2026-07-05)
 
 ### 🐛 Bug Fixes

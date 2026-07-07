@@ -12,7 +12,22 @@ override unlocks everything.
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.1](https://github.com/shaun-the-sheep-patches/morphe-patches/releases/tag/v1.0.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v1.1.0](https://github.com/shaun-the-sheep-patches/morphe-patches/releases/tag/v1.1.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
+<details open>
+<summary>📦 RSS Reader&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 1.48.2 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [RSS Reader Premium](#rss-reader-premium) | Unlock premium features and remove ads in RSS Reader. |  |
+
+</details>
+
 <details open>
 <summary>📦 KineStop&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
