@@ -1,13 +1,11 @@
-# 🧩 KineStop Patches for Morphe
+# 🧩 Morphe Patches
 
-Morphe patches for the **KineStop** app (`com.urbandroid.kinestop`).
+Morphe patches for various Android apps.
 
 ## ❓ About
 
-This bundle contains a patch that unlocks KineStop's premium features by forcing
-`KineService$Companion.isTrial(Context)` to return `false` (the app's "pro / not trial"
-state). All trial/premium gates in the app flow through that one method, so a single
-override unlocks everything.
+This repository contains patch bundles for various Android apps to unlock features, improve usability, or remove ads.
+
 
 ## 🩹 Patches list
 
