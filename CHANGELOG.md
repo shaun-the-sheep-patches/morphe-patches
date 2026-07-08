@@ -1,3 +1,9 @@
+## [1.1.0-dev.2](https://github.com/shaun-the-sheep-patches/morphe-patches/compare/v1.1.0-dev.1...v1.1.0-dev.2) (2026-07-08)
+
+### ✨ New Features
+
+* **flud:** Add Flud Ad-Free and storage permission bypass patch ([fc14a02](https://github.com/shaun-the-sheep-patches/morphe-patches/commit/fc14a02f0b2c585108f384095255ddde0e6889d1))
+
 ## [1.1.0-dev.1](https://github.com/shaun-the-sheep-patches/morphe-patches/compare/v1.0.1...v1.1.0-dev.1) (2026-07-07)
 
 ### ✨ New Features
