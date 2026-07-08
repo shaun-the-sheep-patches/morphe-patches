@@ -10,22 +10,7 @@ This repository contains patch bundles for various Android apps to unlock featur
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.1.0-dev.2](https://github.com/shaun-the-sheep-patches/morphe-patches/releases/tag/v1.1.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;3 patches total
-<details open>
-<summary>📦 Flud&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
-<br>
-
-**🎯 Supported versions:**
-
-| 2.0.12 |
-| :---: |
-
-| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
-|----------|----------------|-----------|
-| [Flud Ad-Free & Bypasses](#flud-ad-free-bypasses) | Unlock ad-free experience (disable banners/interstitials), bypass storage permission setup block, and disable Google Play Integrity licensing check. |  |
-
-</details>
-
+> **[v1.1.0](https://github.com/shaun-the-sheep-patches/morphe-patches/releases/tag/v1.1.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
 <summary>📦 RSS Reader&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -74,4 +59,4 @@ to resolve the `MorpheApp/registry` Gradle plugin).
 
 ## 📜 License
 
-Morphe Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+KineStop Patches are licensed under the [GNU General Public License v3.0](LICENSE)
