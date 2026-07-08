@@ -1,3 +1,9 @@
+## [1.1.0-dev.2](https://github.com/shaun-the-sheep-patches/morphe-patches/compare/v1.1.0-dev.1...v1.1.0-dev.2) (2026-07-08)
+
+### 🐛 Bug Fixes
+
+* **flud:** pairip fix, ads removed, storage permission fix ([53125a7](https://github.com/shaun-the-sheep-patches/morphe-patches/commit/53125a7e7722556aec54e86f1c64338c76f573be))
+
 ## [1.1.0-dev.1](https://github.com/shaun-the-sheep-patches/morphe-patches/compare/v1.0.1...v1.1.0-dev.1) (2026-07-07)
 
 ### ✨ New Features
