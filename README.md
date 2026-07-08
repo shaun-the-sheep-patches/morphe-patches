@@ -59,4 +59,4 @@ to resolve the `MorpheApp/registry` Gradle plugin).
 
 ## 📜 License
 
-KineStop Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+Morphe Patches are licensed under the [GNU General Public License v3.0](LICENSE)
