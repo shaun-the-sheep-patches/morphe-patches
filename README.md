@@ -10,7 +10,7 @@ This repository contains patch bundles for various Android apps to unlock featur
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.1.3-dev.1](https://github.com/shaun-the-sheep-patches/morphe-patches/releases/tag/v1.1.3-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;3 patches total
+> **[v1.2.0-dev.1](https://github.com/shaun-the-sheep-patches/morphe-patches/releases/tag/v1.2.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;4 patches total
 <details open>
 <summary>📦 Flud&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -53,6 +53,21 @@ This repository contains patch bundles for various Android apps to unlock featur
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Unlock Premium](#unlock-premium) | Unlocks all premium features by forcing KineService.Companion.isTrial() to return false (pro state). |  |
+
+</details>
+
+<details open>
+<summary>📦 Pinnit&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 1.12.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium](#unlock-premium) | Unlocks all premium features of Pinnit by bypassing the RevenueCat entitlement and purchase checks. |  |
 
 </details>
 
