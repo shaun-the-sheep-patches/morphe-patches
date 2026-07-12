@@ -37,4 +37,14 @@ object Constants {
             AppTarget(version = "2.0.12")
         )
     )
+
+    val COMPATIBILITY_PINNIT = Compatibility(
+        name = "Pinnit",
+        packageName = "dev.sasikanth.pinnit",
+        apkFileType = ApkFileType.APK,
+        appIconColor = 0x00FFC107, // yellow
+        targets = listOf(
+            AppTarget(version = "1.12.0")
+        )
+    )
 }
