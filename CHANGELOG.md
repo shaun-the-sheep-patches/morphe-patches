@@ -1,3 +1,15 @@
+## [1.2.0-dev.1](https://github.com/shaun-the-sheep-patches/morphe-patches/compare/v1.1.3-dev.1...v1.2.0-dev.1) (2026-07-12)
+
+### ✨ New Features
+
+* **pinnit:** add premium unlock patch for Pinnit v1.12.0 ([f26c0e1](https://github.com/shaun-the-sheep-patches/morphe-patches/commit/f26c0e1997e87cd6912568ebef76a6a400bdad86))
+
+## [1.1.3-dev.1](https://github.com/shaun-the-sheep-patches/morphe-patches/compare/v1.1.2...v1.1.3-dev.1) (2026-07-08)
+
+### 🐛 Bug Fixes
+
+* **flud:** pairip fix, ads removed, storage permission fix ([53125a7](https://github.com/shaun-the-sheep-patches/morphe-patches/commit/53125a7e7722556aec54e86f1c64338c76f573be))
+
 ## [1.1.0](https://github.com/shaun-the-sheep-patches/morphe-patches/compare/v1.0.1...v1.1.0) (2026-07-07)
 
 ### ✨ New Features

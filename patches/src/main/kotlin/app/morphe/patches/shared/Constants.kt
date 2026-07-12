@@ -27,4 +27,24 @@ object Constants {
             AppTarget(version = "1.48.2")
         )
     )
+
+    val COMPATIBILITY_FLUD = Compatibility(
+        name = "Flud",
+        packageName = "com.delphicoder.flud",
+        apkFileType = ApkFileType.APK,
+        appIconColor = 0x002196F3, // 0x00RRGGBB — blue
+        targets = listOf(
+            AppTarget(version = "2.0.12")
+        )
+    )
+
+    val COMPATIBILITY_PINNIT = Compatibility(
+        name = "Pinnit",
+        packageName = "dev.sasikanth.pinnit",
+        apkFileType = ApkFileType.APK,
+        appIconColor = 0x00FFC107, // yellow
+        targets = listOf(
+            AppTarget(version = "1.12.0")
+        )
+    )
 }
